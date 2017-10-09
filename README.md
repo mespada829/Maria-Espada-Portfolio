@@ -1,4 +1,4 @@
-# Maria Espada Portfolio 
+## Maria Espada Portfolio 
 
 <b> Description: </b>
 <br>
@@ -14,6 +14,8 @@ An Updated bootstrap portfolio, designed to display several projects I have work
 
 
 <img src = "portfolio.jpg">
+
+
 
 
 
