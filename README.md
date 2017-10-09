@@ -1,8 +1,10 @@
 ## Maria Espada Portfolio 
 
+```Support / Software Engineer , Writer  & Tech Community Organizer```
+
 <b> Description: </b>
 <br>
-An Updated bootstrap portfolio, designed to display several projects I have worked on through my career as a Software / Support Engineer. 
+An updated bootstrap portfolio, designed to display several projects I have worked on through my career as a Software / Support Engineer. 
 
 ```Including: links to Github, Medium and Linkedin```
 
