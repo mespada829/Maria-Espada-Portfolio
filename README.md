@@ -10,7 +10,12 @@ An Updated bootstrap portfolio, designed to display several projects I have work
 
  <b> Version 1.0 (October 2017) </b>
 
-* Built with bootstrap 
+* Built with bootstrap :grinning:
+
+
+<img src = "portfolio.jpg">
+
+
 
 
 
