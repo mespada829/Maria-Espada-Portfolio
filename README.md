@@ -6,7 +6,13 @@ An Updated bootstrap portfolio, designed to display several projects I have work
 
 ```Including: links to Github, Medium and Linkedin```
 
-Version 1.0 (October 2017)
+<hr>
+
+ <b> Version 1.0 (October 2017) </b>
+
+* Built with bootstrap 
+
+
 
 
 
