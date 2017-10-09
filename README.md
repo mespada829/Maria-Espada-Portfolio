@@ -13,7 +13,7 @@ An Updated bootstrap portfolio, designed to display several projects I have work
 * Built with bootstrap :grinning:
 
 
-<img src = "portfolio.jpg">
+<img src = "portfolio.png">
 
 
 
