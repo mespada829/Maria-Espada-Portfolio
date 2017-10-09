@@ -14,6 +14,10 @@ An updated bootstrap portfolio, designed to display several projects I have work
 
 * Built with bootstrap :grinning:
 
+<b> Goals: </b>
+
+* Create PHP Contact form:
+
 
 <img src = "portfolio.png">
 
