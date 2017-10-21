@@ -14,10 +14,11 @@ An updated bootstrap portfolio, designed to display several projects I have work
 
 * Built with bootstrap :grinning:
 
-<b> Goals: </b>
+<b> Future Add - ons  </b>
 
-* Create PHP Contact form:
-
+* Contact Form with PHP 
+* Link to meetup repo
+* Add more Medium article - link in the footer
 
 <img src = "portfolio.png">
 
