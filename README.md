@@ -20,6 +20,7 @@ An updated bootstrap portfolio, designed to display several projects I have work
 * Link to meetup repo
 * Add more Medium article - link in the footer
 
+[View Portfolio](https://mespada829.github.io/Maria-Espada-Portfolio/)
 <img src = "portfolio.png">
 
 
