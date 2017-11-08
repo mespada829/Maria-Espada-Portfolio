@@ -21,6 +21,8 @@ An updated bootstrap portfolio, designed to display several projects I have work
 * Add more Medium article - link in the footer
 
 [View Portfolio](https://mespada829.github.io/Maria-Espada-Portfolio/)
+<br>
+<br>
 <img src = "portfolio.png">
 
 
